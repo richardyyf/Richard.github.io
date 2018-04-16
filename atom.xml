@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-13T17:25:30.430Z</updated>
+  <updated>2018-04-16T12:33:32.365Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何建立一个自己的博客</title>
+    <link href="http://yoursite.com/2018/04/16/To-creat-a-personal-blog/"/>
+    <id>http://yoursite.com/2018/04/16/To-creat-a-personal-blog/</id>
+    <published>2018-04-16T12:32:18.000Z</published>
+    <updated>2018-04-16T12:33:32.365Z</updated>
+    
+    <content type="html"><![CDATA[<p>#前言<br>有一天杭外大佬<em>Hisen</em> 给我秀了一波他的网站，用的是hexo和github搭建的静态博客，就感觉太酷了吧，于是诞生了大胆的想法。一路上历经各种失败，在海森的帮助下，终于成功了哈哈哈，接下来我要用我自己总结的方法教大家如何建立一个属于自己的博客。</p><h2 id="正文"><a href="#正文" class="headerlink" title="#正文"></a>#正文</h2><p>###配置环境<br><em>安装node.js</em><br>[<a href="https://nodejs.org/zh-cn/]" target="_blank" rel="noopener">https://nodejs.org/zh-cn/]</a> node官网链接，下载适合自己的版本，然后一路安装即可<br><em>安装git</em><br>[<a href="https://git-scm.com]" target="_blank" rel="noopener">https://git-scm.com]</a> git官网链接， 同样下载完一路安装即可</p><p>###安装Hexo<br>安装完node.js和git后，下面就需要安装Hexo了<br>-打开终端，执行一下命令：<br><code>$ sudo npm install -g hexo</code></p><p>###初始化Hexo<br>建一个文件夹 取名Myblog<br>然后cd到那个目录下，具体操作：<br>(img)<br>这是打开终端时候的状态，要cd到Myblog，执行以下命令：<br><code>cd ～/Myblog</code><br>此时你会发现<br>(img)<br>已经cd到Myblog目录下了<br>接着… 执行以下命令：<br>‘’ $ hexo init<br>‘’ $ npm install<br>‘’ $ hexo s<br>这时候就会形成一个本地浏览地址 <a href="http://localhost:4000/" target="_blank" rel="noopener">http://localhost:4000/</a><br>(img)<br>复制粘贴到自己的浏览器里 并且访问 你会发现<br>(img)<br>博客已经建的差不多了哈哈哈</p><h2 id="但这只是本地的。接下来继续讲解如何让其他用户都看得到你的博客。"><a href="#但这只是本地的。接下来继续讲解如何让其他用户都看得到你的博客。" class="headerlink" title="但这只是本地的。接下来继续讲解如何让其他用户都看得到你的博客。"></a>但这只是本地的。接下来继续讲解如何让其他用户都看得到你的博客。</h2><p>#关联github</p><p>未完待续，明天继续写哈哈哈</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#前言&lt;br&gt;有一天杭外大佬&lt;em&gt;Hisen&lt;/em&gt; 给我秀了一波他的网站，用的是hexo和github搭建的静态博客，就感觉太酷了吧，于是诞生了大胆的想法。一路上历经各种失败，在海森的帮助下，终于成功了哈哈哈，接下来我要用我自己总结的方法教大家如何建立一个属于自己的博
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
